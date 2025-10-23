@@ -47,6 +47,7 @@ The final report is a multi-page, app-like experience.
 
 ## 📊 Final Dashboard Screenshots
 
-![Full Dashboard Overview](<img width="958" height="504" alt="Image" src="https://github.com/user-attachments/assets/92f3d972-aa19-417a-927b-3e157a58cc13" />)
+<img width="958" height="504" alt="Image" src="https://github.com/user-attachments/assets/92f3d972-aa19-417a-927b-3e157a58cc13" />
 
-![Product Details Page](<img width="959" height="504" alt="Image" src="https://github.com/user-attachments/assets/2cb84333-3b3c-4525-9737-7415c7375c03" />)
+<img width="959" height="504" alt="Image" src="https://github.com/user-attachments/assets/2cb84333-3b3c-4525-9737-7415c7375c03" />
+
